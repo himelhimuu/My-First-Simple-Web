@@ -1,0 +1,16 @@
+div {
+    border: 1px solid #e40606;
+    padding: 20px;
+    margin-bottom: 16px;
+    
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 8px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
